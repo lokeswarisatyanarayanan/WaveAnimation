@@ -11,7 +11,7 @@ import SwiftUI
 struct WaveAnimationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WaveAnimation()
         }
     }
 }
